@@ -1,0 +1,27 @@
+Problem Statement 
+Meeting deadlines, maintaining high productivity, and planning daily activities all depend on effective task management.  Nonetheless, a lot of people rely on memory or take handwritten notes, which can result in misplaced information, missed assignments, and ineffective time management.  This demonstrates the need for an organized, dependable, and user-friendly system that assists users in tracking, organizing, and recording their tasks.
+ The objective is to develop a Python-based To-Do List Manager that makes it simple for users to add tasks, along with their categories, priority levels, and due dates.  Users should be able to update, remove, and mark tasks as finished using the application.  Additionally, it ought to send out reminders for tasks that are past due. The system must be user-friendly, menu-driven, and able to save task data, offering a solid solution for effective task management.
+
+
+Scope 
+The To-Do List Manager is a simple console-based tool designed to help you keep track of your daily tasks with ease. You can add tasks with important details like due dates, priorities, and categories, so nothing important slips through the cracks. It lets you view your tasks, edit or delete them, and mark them as complete to stay up-to-date on what’s done and what’s left. Plus, it can remind you when tasks are due or overdue, so you never miss a deadline. To help you see how you’re progressing, it summarizes completed and pending tasks. Your task list can also be saved to a file, letting you pick up right where you left off. This project is great for learning basic Python skills like working with lists, loops, handling text, and managing input/output. It keeps things straightforward, without any fancy features like cloud storage, graphics, or mobile apps.
+
+Target Users
+1.	For students who want to manage assignments, deadlines, and study schedules.
+2.	This project may be useful for beginning Python students who want a simple project that can help them learn functions, lists, and file handling.
+3.	People dealing with daily personal tasks like routines, reminders, and goals.
+4.	New programmers who practice problem-solving and developing menu-driven programs.
+5.	Educators/trainer seeking examples for beginners in programming, or class assignments.
+
+
+High Level features
+1.	Creating and storing tasks
+Enables users to add new tasks along with details like due date, priority level, and category.
+2.	Task View Interface
+Displays all tasks in a well-organized listed format for straightforward tracking and review.
+3.	Task Modification Options
+Allows editing and updating of task information due to schedule or priority changes.
+4.	Task Completion Tracking
+Supports marking tasks as completed and updating their status.
+5.	Task Deletion Allows removal of unnecessary or completed tasks to keep the list clean and relevant. Reminder and Deadline Check Identifies overdue or due-today tasks based on the current date. Task Summary Report It gives insights into the total number of tasks, completed ones, and pending items. Persistent Data Storage Saves tasks to a file so data is available even after the program closes.
+
